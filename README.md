@@ -36,8 +36,4 @@ aura/
 - **Privacy Track**: High focus on ZK-Shielding for trade metadata.
 - **Bitcoin Track**: Direct integration with L1 Bitcoin and Xverse wallet.
 
----
 
-### Developed By
-[Your Name/Team Name]
-*Re{define} Hackathon 2026 Submission*
